@@ -1,0 +1,13 @@
+{
+  "name": "lightbox",
+  "version": "0.0.1",
+  "dependencies": {},
+  "scripts": {
+    "gulp": "gulp",
+    "minify": "gulp minify"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp-connect-php": "^1.0.1"
+  }
+}
